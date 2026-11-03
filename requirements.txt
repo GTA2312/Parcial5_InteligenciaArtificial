@@ -1,0 +1,4 @@
+tensorflow==2.22.0rc0 # Cambia esto por la versión exacta que te dio Colab
+streamlit
+pillow
+numpy

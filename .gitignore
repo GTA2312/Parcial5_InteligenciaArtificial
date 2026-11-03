@@ -1,0 +1,32 @@
+# ==========================================
+# Entorno virtual
+# ==========================================
+venv/
+env/
+
+# ==========================================
+# Datasets de imágenes 
+# (Excluidos para evitar el límite de 100 MB de GitHub)
+# ==========================================
+seg_train/
+seg_test/
+seg_pred/
+
+# ==========================================
+# Archivos temporales y caché de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Archivos de Jupyter Notebook
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# Archivos del sistema operativo (Opcional)
+# ==========================================
+.DS_Store
+Thumbs.db
